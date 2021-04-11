@@ -1,2 +1,1 @@
-# Josephalsop.github.io
-# Hello there it's me
+# Joseph Alsop owns this site
